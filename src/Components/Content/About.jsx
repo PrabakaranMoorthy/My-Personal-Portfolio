@@ -30,7 +30,7 @@ function About() {
       title: "Bsc Computer Science",
       institution: "SRI SANKARA ARTS AND SCIENCE COLLEGE",
       period: "May 2013 - July 2016",
-      cgpa: "CGPA: 70%",
+      cgpa: "CGPA: 71%",
       icon: <FaUniversity />,
     },
   ];
@@ -40,40 +40,20 @@ function About() {
       title: "MERN Stack Development",
       institution: "GUVI GEEK NETWORK PRIVATE LIMITED",
       period: "July 2024-October 2024",
-      link: "https://drive.google.com/file/d/1PZojXwEKdAM3rXwlzJTz1VmWk_h-I4LJ/view?usp=drive_link", 
+      link: "https://drive.google.com/file/d/1zdj1M8LwUrtXA0Ix2NJiAn2YC6QcUrIi/view?usp=drive_link",
     },
   ];
 
   const certificatesData = [
     {
-      title: "Python Basics",
-      provider: "HackerRank",
-      link: "https://www.hackerrank.com/certificates/204a17304a0c",
+      title: "HTML,CSS,Tailwind CSS",
+      provider: "GUVI GEEK NETWORK PRIVATE LIMITED",
+      link: "https://drive.google.com/file/d/1epzxCo-Pkh257m-rNO1wTUrNKztcVtu4/view?usp=sharing",
     },
     {
       title: "Java Basics",
-      provider: "HackerRank",
-      link: "https://www.hackerrank.com/certificates/cbc8a0f5d287", 
-    },
-    {
-      title: "JavaScript Essentials 1 (JSE)",
-      provider: "Cisco Networking Academy",
-      link: "https://drive.google.com/file/d/10iLZYbA7Cdy2Z3Ui3BC4EratPk_4z8Sm/view", 
-    },
-    {
-      title: "TalentNext Course on Java Full Stack",
-      provider: "Wipro",
-      link: "https://drive.google.com/file/d/1_H2eRxu3N7dgt889kw3ubaMDbIRMO8mt/view", 
-    },
-    {
-      title: "IT Support",
-      provider: "Google",
-      link: "https://drive.google.com/file/d/1cdiZqjUDbobAE2oJkBA70GRdnyOqz4Ut/view", 
-    },
-    {
-      title: "Machine Learning",
-      provider: "Great Learning",
-      link: "https://drive.google.com/file/d/1B5PeIwj0YRzdNH47cPRWyqiqKp2U0mko/view", 
+      provider: "GUVI GEEK NETWORK PRIVATE LIMITED",
+      link: "https://drive.google.com/file/d/1WBZWJ2dq6sfiA83EU9N8cAtlUraslsHP/view?usp=sharing",
     },
   ];
 

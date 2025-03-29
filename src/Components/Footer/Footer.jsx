@@ -5,7 +5,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 function Footer() {
   const social = [
     {
-      link: "https://www.linkedin.com/in/praveen-kumar-496255190/",
+      link: "https://www.linkedin.com/in/prabakaran6010/",
       icon: <FaLinkedinIn />,
     },
     {
