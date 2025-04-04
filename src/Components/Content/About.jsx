@@ -55,6 +55,22 @@ function About() {
       provider: "GUVI GEEK NETWORK PRIVATE LIMITED",
       link: "https://drive.google.com/file/d/1WBZWJ2dq6sfiA83EU9N8cAtlUraslsHP/view?usp=sharing",
     },
+    {
+      title: "Advanced JS",
+      provider: "GUVI GEEK NETWORK PRIVATE LIMITED",
+      link: "https://drive.google.com/file/d/1p4gnH11Ui6A7qYar7scFNKLXGsNe4giC/view?usp=sharing",
+    },
+    {
+      title: "ReactJS",
+      provider: "GUVI GEEK NETWORK PRIVATE LIMITED",
+      link: "https://drive.google.com/file/d/1vUCEpx13h9bnDfUfMAzyF7awkgWaJBWX/view?usp=sharing",
+    },
+
+    {
+      title: "Generative AI Tools",
+      provider: "SKILL NATION",
+      link: "https://drive.google.com/file/d/1tiswvxPh1Fb9Od4eQHj6wLogGHWH3r8i/view?usp=sharing",
+    },
   ];
 
   return (
@@ -90,10 +106,11 @@ function About() {
           >
             I am a full stack web developer with a passion for creating
             interactive and responsive web applications. I have experience
-            working with HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React, Redux, MySQL, MongoDB, Node.js, Express.js
-            and Git. I am a quick learner and I am always looking to expand my
-            knowledge and skill set. I am a team player and I am excited to work
-            with others to create amazing applications.
+            working with HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React,
+            Redux, MySQL, MongoDB, Node.js, Express.js and Git. I am a quick
+            learner and I am always looking to expand my knowledge and skill
+            set. I am a team player and I am excited to work with others to
+            create amazing applications.
           </p>
           <div className="flex mt-8 gap-2 space-x-2 items-center justify-center ">
             <a href={Resume} target="_blank" rel="noopener noreferrer">
